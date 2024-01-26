@@ -20,7 +20,7 @@ If two players have the same ranked hands then the rank made up of the highest v
 
 A more elaborate description of poker hand rankings can be found here: http://www.pokerlistings.com/poker-hand-ranking
 
-# **2	Goal**
+# **	Goal**
 The goal of this project is to write a program that given the hands of 2 players and the community cards, evaluates the winner.
 
 |**Hand**|**Player 1**|**Player 2**|**Community**|<p>**Expected**</p><p>**Output**</p>|**Reason**|
