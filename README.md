@@ -19,3 +19,5 @@ The cards are valued in the order:
 If two players have the same ranked hands then the rank made up of the highest value wins; for example, a pair of eights beats a pair of fives (see example 1 below). But if two ranks tie, for example, both players have a pair of queens, then highest cards in each hand are compared (see example 4 below); if the highest cards tie then the next highest cards are compared, and so on.
 
 A more elaborate description of poker hand rankings can be found here: http://www.pokerlistings.com/poker-hand-ranking
+
+#Goal
