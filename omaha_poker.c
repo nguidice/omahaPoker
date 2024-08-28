@@ -4,7 +4,7 @@
 
 #include "omaha_poker.h"
 
-/* TODO: TASK 1 (1 point) : Define 2 global instances of struct player--one for each player */
+/*Define 2 global instances of struct player--one for each player */
 struct player player1;
 struct player player2;
 
