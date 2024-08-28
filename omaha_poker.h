@@ -25,13 +25,10 @@ struct card {
 	enum Suit suit;
 };
 
-/* This structure represents a single hand comprising of 5 cards: 2 from player cards and 3 from community cards.
- * It comprises of an array of "cards" defined above along with an unsigned long number (call it 'vector') 
- * of the hand representing the strength. 
- * It also maintains an array of 13 integers that records the number of times a card of a certain value appears in the hand*/
+/* This structure represents a single hand comprising of 5 cards: 2 from player cards and 3 from community cards.*/
 struct hand {
 	struct card cards[5];
-	unsigned int card_count[13]; /* 13 cards in all */
+	unsigned int card_count[13]; /* 13 cards total cards */
 	unsigned long vector;
 };
 
